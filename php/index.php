@@ -1,3 +1,3 @@
 <?php
 
-echo 'Cheguei aqui e commitei isso para o <b>GIT</>'
+echo 'alteração para conflito <b>GIT</>'
